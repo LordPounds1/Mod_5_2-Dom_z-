@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mod_5_2(Dom_z)", "Mod_5_2(Dom_z)\Mod_5_2(Dom_z).csproj", "{D40C7D98-E740-4B5E-8E6F-3C831111D7F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D40C7D98-E740-4B5E-8E6F-3C831111D7F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D40C7D98-E740-4B5E-8E6F-3C831111D7F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D40C7D98-E740-4B5E-8E6F-3C831111D7F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D40C7D98-E740-4B5E-8E6F-3C831111D7F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {707A2F9B-78EF-4A26-A119-A2AE5849FE2E}
+	EndGlobalSection
+EndGlobal
